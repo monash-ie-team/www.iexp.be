@@ -4,4 +4,4 @@ To access [IE demo projects](https://iexp.be), you must connect to [Monash VPN](
 
 ### Support or Contact
 
-For more about IE projects, please [contact us](mailto:fit5120.allcampuses-x@monash.edu), or visit our website at https://ie.infotech.monash.edu. 
+For more about IE projects, please [contact us](mailto:fit5120.allcampuses-x@monash.edu), or visit our website at [https://ie.infotech.monash.edu](https://ie.infotech.monash.edu). 
